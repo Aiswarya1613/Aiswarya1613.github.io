@@ -1,13 +1,14 @@
 ---
 # Display name
-title: 吳健雄
+title: Aiswarya Mariam Jacob
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Aiswarya
+middle_name: Mariam
+last_name: Jacob
 
 # Status emoji
 status:
@@ -20,7 +21,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Analyst/Business Analyst/Data Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,65 +48,55 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Data Visualization
+  - SQL Querying
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Tech in  Artificial Intelligence and Data Science
+    institution: Rajagiri School of Engineering and Technology
+    date_start: 2021-11-15
+    date_end: 2025-07-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Senior Secondary School
+    institution: Vidyodaya School,Thevakkal
+    date_start: 2019-06-01
+    date_end: 2021-05-30
     summary: |
-      GPA: 3.8/4.0
+      Percentage: 95.6
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Higher Secondary School
+    institution: Vidyodaya School,Thevakkal
+    date_start: 2017-06-01
+    date_end: 2019-03-31
     summary: |
-      GPA: 3.4/4.0
+      Percentage: 92
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Intern
+    company_name: Nest Digital
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-03-23
+    date_end: 2023-04-05
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -118,11 +109,11 @@ skills:
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -144,10 +135,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Malayalam
+    percent: 80
+  - name: Hindi
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +174,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Aiswarya Mariam Jacob is currently pursuing B.Tech in Artificial Intelligence and Data Science with Honors having a strong foundation in Machine Learning,Data Visualization and SQL querying.She possess organizational and multitasking skills and is ready to apply her knowledge and skills to new challenges in any professional setting.
